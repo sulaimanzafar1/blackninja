@@ -31,7 +31,7 @@ div.WordSection1
 <body lang=EN-US>
 <div class=WordSection1>
 <p class=MsoNormal><img width=173 height=231 id="Picture 1"
-src="BOOH%20YEAH.fld/image001.jpg"></p>
+src="image001.jpg"></p>
 <p class=MsoNormal>&nbsp;</p>
 <p class=MsoNormal>BOOH YEAH </p>
 <p class=MsoNormal>&nbsp;</p>
@@ -43,8 +43,3 @@ src="BOOH%20YEAH.fld/image001.jpg"></p>
 </div>
 </body>
 </html>
-© 2018 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
